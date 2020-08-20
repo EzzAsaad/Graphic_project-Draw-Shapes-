@@ -1,0 +1,1 @@
+DrawLineParamtric 46 61 107 141|DrawLineParamtric 79 170 148 229|drawellipseDirect 114 57 112 84|DrawLineParamtric 46 61 107 141|DrawLineParamtric 79 170 148 229|drawellipseDirect 114 57 112 84|

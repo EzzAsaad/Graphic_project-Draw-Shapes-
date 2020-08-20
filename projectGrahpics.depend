@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1557046251 source:c:\users\abdal_000\desktop\projectgrahpics\main.cpp
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	<vector>
+	<string>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<iterator>
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
